@@ -14,4 +14,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhanta-ray&show_icons=true&locale=en&layout=compact" alt="siddhanta-ray" />
 <br>
 <h3 align="left">📊GitHub Stats:</h3> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanta-ray&theme=black-ice" alt="GitHub Streak Stats">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhanta-ray" alt="GitHub Streak Stats">

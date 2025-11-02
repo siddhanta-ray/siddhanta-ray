@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhanta Ray</h1>
 <h3 align="center">A passionate designer and AI/ML enthusiast</h3>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhanta-ray" alt="siddhanta-ray" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
